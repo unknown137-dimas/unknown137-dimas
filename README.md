@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dimas Fitrio Kurniawan
 - 👀 I’m interested in Internet of Things, Docker, Automation, Networking, and Virtualization
-- 🌱 I’m currently learning Machine Learning at Bangkit Program
+- 🌱 I’m a graduated student from Machine Learning Track at Bangkit Program
+- 🎓 I'm currently pursuing for Bachelor Degree at Gadjah Mada University.
 - 📫 You can reach me at [@dimas_137](https://t.me/dimas_137) (Telegram) or dimasfitriokurniaw4n@gmail.com (email)
 
 <!---
